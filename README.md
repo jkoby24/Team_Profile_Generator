@@ -6,6 +6,8 @@
 
 This Node CLI project builds an HTML file based on user input. A team profile is created after the user answers a series of prompts.
 
+![](/assests/screenshot2.png)
+
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
@@ -36,6 +38,8 @@ Contributions are welcome! My contact information will be listed below
 ## Tests
 
 This application was run through a series of tests to make sure they passed prior to being published.
+
+![](/assests/screenshot1.png)
 
 ## Questions
 
